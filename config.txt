@@ -1,0 +1,6 @@
+# configuration created on 2022-04-01_23:43
+VERSION=17
+TAG=2022-04-01
+MYHUBID=aeadataeditor
+MYIMG=aer-2021-0867
+STATALIC=/usr/local/stata17/stata.lic
